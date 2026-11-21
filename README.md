@@ -4,7 +4,14 @@ Predicting angiographically confirmed coronary heart disease for 303 patients of
 [UCI Heart Disease (Cleveland)](https://archive.ics.uci.edu/dataset/45/heart+disease) dataset
 with three traditional models and a neural network.
 
-**Group members:** _[Student 1 – ID]_, _[Student 2 – ID]_, _[Student 3 – ID]_, _[Student 4 – ID]_
+**Group members:**
+
+| Name | Student ID |
+|---|---|
+| Abdulwahab Almutairi | S230049170 |
+| Abdulaziz S Aljohani | S230028494 |
+| Mohammad Abdulwahab Saeed | S230045528 |
+| Yousuf Abdulmannan | S230018039 |
 
 **GitHub repository:** https://github.com/As-m2023/ds471-heart-disease-ml
 
