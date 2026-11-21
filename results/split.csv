@@ -1,0 +1,5 @@
+Set,Patients,Disease,Share %,Disease %
+Training,181,83,59.7,45.9
+Validation,61,28,20.1,45.9
+Test,61,28,20.1,45.9
+Total,303,139,100.0,45.9

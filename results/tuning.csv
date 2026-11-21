@@ -1,0 +1,4 @@
+Model,Search,Settings tried,Best hyperparameters,CV train AUC,CV val AUC,CV val AUC std,CV val F1,CV val recall,CV val accuracy,Time (s)
+Logistic Regression,grid,32,"{'C': 0.1, 'class_weight': 'balanced', 'penalty': 'l2'}",0.9211530717954297,0.8911674406604748,0.047686232975191825,0.7938748710908956,0.7754901960784313,0.8156656656656658,15.5
+Decision Tree,grid,280,"{'ccp_alpha': 0.01, 'criterion': 'entropy', 'max_depth': 6, 'min_samples_leaf': 10}",0.938578855596615,0.8558852554179565,0.049505138427430415,0.7761690390761868,0.7830882352941176,0.7899399399399399,141.2
+Gradient Boosting,random,40,"{'subsample': 0.8, 'n_estimators': 50, 'min_samples_leaf': 20, 'max_depth': 4, 'learning_rate': 0.05}",0.9631116960514278,0.8833971878224973,0.04112003342717819,0.799563722681239,0.7475490196078431,0.8285285285285285,55.0
